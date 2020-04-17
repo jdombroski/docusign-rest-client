@@ -1,5 +1,5 @@
 {
-  "name": "tucker-eric/docusign-rest-client",
+  "name": "jdombroski/docusign-rest-client",
   "description": "A PHP Wrapper For The Official Docusign Esign Library Implementing The Docusign REST Api",
   "keywords": [
     "docusign",
